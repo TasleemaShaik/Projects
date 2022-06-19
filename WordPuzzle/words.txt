@@ -1,0 +1,80 @@
+eagle: bird
+parrot: bird
+hummingbird: bird
+penguin : bird
+peacock: bird
+ostrich: bird
+havana: city
+new york: city
+ottawa: city
+san francisco: city
+tokyo: city
+argentina: country
+australia : country
+canada: country
+chile: country
+china: country
+denmark: country
+england: country
+finland: country
+france: country
+mexico: country
+norway: country
+peru: country
+russia: country
+scotland: country
+vietnam: country
+united states: country
+salmon: fish
+shark: fish
+dolphin: fish
+elephant: mammal
+horse: mammal
+lion: mammal
+giraffe: mammal
+tiger : mammal
+monkey : mammal
+avengers : movie
+gravity : movie
+evil dead : movie
+bat man : movie
+fantastic four: movie
+iron man: movie
+baahubali: movie
+darling: movie
+titanic: movie
+twilight movie
+fast and furious : movie
+inception : movie
+drums: musical instrument
+organ: musical instrument
+piano: musical instrument
+violin:musical instrument
+sitar: musical instrument
+earth: planet
+jupiter: planet
+mars: planet
+mercury: planet
+neptune: planet
+saturn: planet
+uranus: planet
+venus: planet
+lollipop : android version
+ginger bread : android version
+froyo : android version
+honey comb : android version
+eclair : android version
+kitkat : android version
+cup cake : android version
+donut : android version
+icecream sandwich : android version
+jelly bean : android version
+marsh mellow : android version
+noughat : android version
+billgates : microsoft
+mark zukcer berg : facebook
+steeve jobs : apple
+larry page : google
+james gosling : java
+dennis ritchi : c language
+windows :Operating System
